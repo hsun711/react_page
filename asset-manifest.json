@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react_page/static/css/main.e62a65b8.chunk.css",
+    "main.js": "/react_page/static/js/main.987258c1.chunk.js",
+    "main.js.map": "/react_page/static/js/main.987258c1.chunk.js.map",
+    "runtime-main.js": "/react_page/static/js/runtime-main.cc32641e.js",
+    "runtime-main.js.map": "/react_page/static/js/runtime-main.cc32641e.js.map",
+    "static/js/2.1948b652.chunk.js": "/react_page/static/js/2.1948b652.chunk.js",
+    "static/js/2.1948b652.chunk.js.map": "/react_page/static/js/2.1948b652.chunk.js.map",
+    "index.html": "/react_page/index.html",
+    "static/css/main.e62a65b8.chunk.css.map": "/react_page/static/css/main.e62a65b8.chunk.css.map",
+    "static/js/2.1948b652.chunk.js.LICENSE.txt": "/react_page/static/js/2.1948b652.chunk.js.LICENSE.txt",
+    "static/media/close_icon.4d37ad07.png": "/react_page/static/media/close_icon.4d37ad07.png",
+    "static/media/logo.d454b2fc.png": "/react_page/static/media/logo.d454b2fc.png",
+    "static/media/menu_hamburger_icon.3dff3133.png": "/react_page/static/media/menu_hamburger_icon.3dff3133.png",
+    "static/media/pirate.2df9e196.jpg": "/react_page/static/media/pirate.2df9e196.jpg",
+    "static/media/vendor.4280f574.jpg": "/react_page/static/media/vendor.4280f574.jpg",
+    "static/media/viking.e8fcb1d0.jpg": "/react_page/static/media/viking.e8fcb1d0.jpg",
+    "static/media/zombie.0da91039.jpg": "/react_page/static/media/zombie.0da91039.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc32641e.js",
+    "static/js/2.1948b652.chunk.js",
+    "static/css/main.e62a65b8.chunk.css",
+    "static/js/main.987258c1.chunk.js"
+  ]
+}
