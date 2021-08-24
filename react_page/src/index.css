@@ -149,8 +149,16 @@
   margin-bottom: 2vmin;
 }
 
+.container{
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
 .character {
   display: flex;
+  width: 50%;
   border-radius: 10px;
   background-color: #dcdde1;
   align-items: center;
@@ -204,11 +212,13 @@
 ==========================*/
 
 @media (min-width: 500px) {
+
   .container {
-    display: flex;
+    flex-direction: row;
   }
+
   .character {
-    flex: 1;
+    flex: 1 1 500px;
   }
 }
 
@@ -221,6 +231,7 @@
     width: 10vmin;
     padding-right: 1rem;
   }
+
 }
 
 @media screen and (min-width: 1200px) {
