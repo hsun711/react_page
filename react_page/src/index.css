@@ -151,14 +151,13 @@
 
 .container{
   display: flex;
-  width: 100%;
   flex-direction: column;
+  width: 100%;
   flex-wrap: wrap;
 }
 
 .character {
   display: flex;
-  width: 50%;
   border-radius: 10px;
   background-color: #dcdde1;
   align-items: center;
@@ -212,13 +211,12 @@
 ==========================*/
 
 @media (min-width: 500px) {
-
   .container {
     flex-direction: row;
   }
 
-  .character {
-    flex: 1 1 500px;
+  .character{
+    flex: 1 1 400px
   }
 }
 
